@@ -1,6 +1,6 @@
 # food-shop.frontend Food Shop 
 
-# Frontend часть интернет-магазина электроники. 
+# Backend часть интернет-магазина электроники. 
 
 # Стек: 
 - Nodejs
