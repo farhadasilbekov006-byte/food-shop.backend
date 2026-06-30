@@ -1,4 +1,4 @@
-# food-shop.frontend Food Shop 
+# food-shop.backend Food Shop 
 
 # Backend часть интернет-магазина электроники. 
 
